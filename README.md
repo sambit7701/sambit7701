@@ -1,13 +1,11 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Sambit Pattanayak</h1>
 <h3 align="center">Currently persuading my B.Tech in CSIT Branch at ITER, SOA University🏫🎓 !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaal-coder&label=Profile%20views&color=1c8b0e&style=flat" alt="kaal-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit7701&label=Profile%20views&color=1c8b0e&style=flat" alt="kaal-coder" /> </p>
 
 - 🔭 I’m currently working on **myself, obviously.**
 
 - 🌱 I’m currently learning **javascript.**
-
-- 📄 Know about my experiences [Here](resume link)
 
 - 💬 Ask me about **anything on tech.**
 
@@ -25,7 +23,7 @@
 
 <h3 align="left">My GitHub stats:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sambit7701r&theme=highcontrast&show_icons=true" alt="kaal-coder" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sambit7701&theme=highcontrast&show_icons=true" alt="kaal-coder" />
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=sambit7701&theme=highcontrast&hide_border=false" alt ="kaal-coder" />
   
